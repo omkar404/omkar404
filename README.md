@@ -4,13 +4,13 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  
 </head>
 <body>
   <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000" alt="">
   <h1 align="center">Hi 👋, I'm omkar mhetar</h1>
   <h3 align="center">A passionate frontend developer from India</h3>
-  <img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="">
+  <img align="right" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/orchestrate.gif" alt=""; >
 
 
 
