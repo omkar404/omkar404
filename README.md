@@ -16,7 +16,7 @@
 
   - 🌱 I’m currently learning **React , Notejs , Angular**
 
-  - 💬 Ask me about **Html , Css , Javascript , Python , sql**
+  - 💬 Ask me about **Html , Css , Javascript , Python , Sql**
 
   - 📫 How to reach me **omkarmhetar100@gmail.com**
 
