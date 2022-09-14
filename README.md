@@ -7,7 +7,7 @@
   
 </head>
 <body>
-  <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000" alt="">
+  <img src="https://usersnap.com/blog/wp-content/uploads/2017/04/college-study-web-development-2.png?x18216" alt="">
   <h1 align="center">Hi 👋, I'm omkar mhetar</h1>
   <h3 align="center">A passionate frontend developer from India</h3>
   <img align="right" src="https://im3.ezgif.com/tmp/ezgif-3-99c608f352.gif" alt=""; >
